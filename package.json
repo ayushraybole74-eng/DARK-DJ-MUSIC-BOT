@@ -1,0 +1,14 @@
+{
+  "name": "dark-dj-music-bot",
+  "version": "1.0.0",
+  "description": "DARK DJ Discord Music Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "lavalink-client": "^2.5.0",
+    "dotenv": "^16.4.7"
+  }
+}
